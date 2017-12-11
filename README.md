@@ -11,3 +11,7 @@
 [x] 建立Vue的基本项目
 [] Hello Vue 练习
 [] vue 组件
+
+
+-[] 建立vue的项目
+-[] Hello Vue
